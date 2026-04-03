@@ -110,7 +110,7 @@ ollama serve
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to see the application!
+Open [https://splendid-mochi-b5eadd.netlify.app/](https://splendid-mochi-b5eadd.netlify.app/) to see the application!
 
 ## 📖 Usage
 
